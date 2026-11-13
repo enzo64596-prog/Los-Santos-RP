@@ -1,0 +1,11 @@
+{
+ "name": "Los Santos Phone RP",
+ "short_name": "LS Phone",
+ "description": "Le téléphone interactif de Los Santos RP",
+ "start_url": "/",
+ "scope": "/",
+ "display": "standalone",
+ "background_color": "#17132a",
+ "theme_color": "#17132a",
+ "icons": [{"src":"/static/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
